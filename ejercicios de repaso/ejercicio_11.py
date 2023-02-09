@@ -11,4 +11,6 @@ if __name__ == "__main__":
     for i in range(0,100+1,2):
       list.append(i)
     return list
+  print("la lista de numeros entre 1 y 100 es: ", pares_cien())
   pares_cien()
+  print(pares_cien())
