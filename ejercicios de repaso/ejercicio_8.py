@@ -8,4 +8,3 @@ if __name__ == "__main__":
         i += 1
     lista2 = lista[::-1]
     print(f"La lista original es: {lista} y su inversion seria: {lista2}")
-
